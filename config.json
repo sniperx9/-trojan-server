@@ -13,5 +13,8 @@
   "websocket": {
     "enabled": true,
     "path": "/ws"
+  },
+  "router": {
+    "enabled": true
   }
 }
